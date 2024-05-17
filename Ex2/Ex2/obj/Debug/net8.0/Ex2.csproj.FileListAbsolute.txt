@@ -1,0 +1,14 @@
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\bin\Debug\net8.0\Ex2.exe
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\bin\Debug\net8.0\Ex2.deps.json
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\bin\Debug\net8.0\Ex2.runtimeconfig.json
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\bin\Debug\net8.0\Ex2.dll
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\bin\Debug\net8.0\Ex2.pdb
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\obj\Debug\net8.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\obj\Debug\net8.0\Ex2.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\obj\Debug\net8.0\Ex2.AssemblyInfo.cs
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\obj\Debug\net8.0\Ex2.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\obj\Debug\net8.0\Ex2.dll
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\obj\Debug\net8.0\refint\Ex2.dll
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\obj\Debug\net8.0\Ex2.pdb
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\obj\Debug\net8.0\Ex2.genruntimeconfig.cache
+C:\Workspace\CSharp\ExOOP\Ex2\Ex2\obj\Debug\net8.0\ref\Ex2.dll

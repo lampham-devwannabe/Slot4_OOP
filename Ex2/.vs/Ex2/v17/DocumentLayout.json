@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\CSharp\\ExOOP\\Ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{669CB72C-06B3-491D-917E-6C919555ABB1}|Ex2\\Ex2.csproj|c:\\workspace\\csharp\\exoop\\ex2\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669CB72C-06B3-491D-917E-6C919555ABB1}|Ex2\\Ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669CB72C-06B3-491D-917E-6C919555ABB1}|Ex2\\Ex2.csproj|c:\\workspace\\csharp\\exoop\\ex2\\ex2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669CB72C-06B3-491D-917E-6C919555ABB1}|Ex2\\Ex2.csproj|solutionrelative:ex2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\ExOOP\\Ex2\\Ex2\\Person.cs",
+              "RelativeDocumentMoniker": "Ex2\\Person.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\ExOOP\\Ex2\\Ex2\\Person.cs",
+              "RelativeToolTip": "Ex2\\Person.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwBgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:32:46.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\ExOOP\\Ex2\\Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2\\Program.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\ExOOP\\Ex2\\Ex2\\Program.cs",
+              "RelativeToolTip": "Ex2\\Program.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAcwHwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:32:26.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
